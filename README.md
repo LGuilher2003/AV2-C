@@ -9,7 +9,9 @@ Selection sort - A idéia da ordenação por seleção é procurar o menor eleme
 
 Merge sort - Esse tipo de ordenação em dividir o total de elementos por 2 até ficarem únicos e commparar cada um deles e ordenando.
 
+
 𝙀𝙨𝙩𝙖𝙗𝙞𝙡𝙞𝙙𝙖𝙙𝙚 (Um algoritmo de ordenação diz-se estável se preserva a ordem de registros de chaves iguais) :
+
 
 O Bubble sort é estável.
 
@@ -19,7 +21,9 @@ O Selection sort não é estável.
 
 O Merge sort é estável.
 
+
 𝙉𝙞́𝙫𝙚𝙡 𝘿𝙚 𝘾𝙤𝙢𝙥𝙡𝙚𝙭𝙞𝙙𝙖𝙙𝙚 𝘾𝙤𝙢𝙥𝙪𝙩𝙖𝙘𝙞𝙤𝙣𝙖𝙡 :
+
 
 Bubble sort é O(n²) em todos os casos.
 
