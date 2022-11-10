@@ -1,24 +1,34 @@
 # AV2-C
-Os métodos de ordenação Insertion sort,Selection sort e Bubble sort apresentam o mesmo nível de complexidade computacional que é O(n2).
+𝙏𝙞𝙥𝙤𝙨 𝘿𝙚 𝙊𝙧𝙙𝙚𝙣𝙖𝙘̧𝙖̃𝙤 :
+Bubble sort - Esse tipo de ordenação Percorra o vetor inteiro comparando elementos adjacentes (dois a dois) e Troca as posições dos elementos fora de ordem.
 
-O Merge sort possui um nìvel complexidade acima dos demais, o nível de complexidade dele é O(n log n).
+Insertion sort - é dividir os elementos em duas subestruturas, uma com os elementos já ordenados e outra com elementos ainda por ordenar ( tipo uma mão com cartas).
+
+Selection sort - A idéia da ordenação por seleção é procurar o menor elemento do vetor (ou maior) e movimentá-lo para a primeira (última) posição do vetor.
+
+Merge sort - Esse tipo de ordenação em dividir o total de elementos por 2 até ficarem únicos e commparar cada um deles e ordenando.
+
+𝙀𝙨𝙩𝙖𝙗𝙞𝙡𝙞𝙙𝙖𝙙𝙚 (Um algoritmo de ordenação diz-se estável se preserva a ordem de registros de chaves iguais) :
 
 O Bubble sort é estável.
 
-O insertion sort é estável.
+O Insertion sort é estável.
+
+O Selection sort não é estável.
 
 O Merge sort é estável.
 
-O selection sort não é estável.
+𝙉𝙞́𝙫𝙚𝙡 𝘿𝙚 𝘾𝙤𝙢𝙥𝙡𝙚𝙭𝙞𝙙𝙖𝙙𝙚 𝘾𝙤𝙢𝙥𝙪𝙩𝙖𝙘𝙞𝙤𝙣𝙖𝙡 :
 
-O Insertion sort é o que mais faz rápido as ordenações pois ele faz menos movimentos que os outros.
+Bubble sort é O(n²) em todos os casos.
 
-No Insertion nas primeiras posições vão indo os menores valores.
+Insertion sort no melhor caso é O(n) e no pior caso O(n²).
 
-O tempo de duração do Selection sort não é muito diferente pro Insertion mas pro Bubble e Merge é bastante.
+Selection sort é O(n²) em todos os casos.
 
-O algoritmo do Bubble é o que mais simples porém menos eficiente entre os 4 e também o mais lento que o Insertion sort e Selection sort.
+Merge sort é O(n log n) em todos os casos.
 
-O Bubble os elementos ficam se comparando em duplas até ficarem ordenados.
 
-O tempo de duração do Merge sort é maior que os outros já que ele faz muitos movimentos(o vetor total fica se divindo /2 até ficarem únicos e depois se organizando).
+
+
+
