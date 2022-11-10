@@ -3,7 +3,8 @@
 
 Bubble sort - Esse tipo de ordenação Percorra o vetor inteiro comparando elementos adjacentes (dois a dois) e Troca as posições dos elementos fora de ordem.
 
-![image](https://user-images.githubusercontent.com/111072200/201198482-fac01ca2-0dfb-4f9a-bf5c-10fc3c956554.png)
+![image](https://user-images.githubusercontent.com/111072200/201198856-0fa6c942-2182-43fc-9582-62b70dfd32aa.png)
+
 
 
 
