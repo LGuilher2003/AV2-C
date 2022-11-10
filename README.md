@@ -3,7 +3,8 @@
 
 Bubble sort - Esse tipo de ordenação Percorra o vetor inteiro comparando elementos adjacentes (dois a dois) e Troca as posições dos elementos fora de ordem.
 
-![image](https://user-images.githubusercontent.com/111072200/201198011-1ce2499e-9b45-4116-940c-5d117a64ea74.png)
+![image](https://user-images.githubusercontent.com/111072200/201198350-b29ddaab-8e4d-4c47-9399-904a7416762e.png)
+
 
 Insertion sort - é dividir os elementos em duas subestruturas, uma com os elementos já ordenados e outra com elementos ainda por ordenar ( tipo uma mão com cartas).
 
