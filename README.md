@@ -45,7 +45,7 @@ Insertion sort no melhor caso é O(n) e no pior caso O(n²).
 Selection sort é O(n²) em todos os casos.
 
 Merge sort é O(n log n) em todos os casos.
-![image](https://user-images.githubusercontent.com/111072200/201203658-13a27e3d-3030-482f-9772-d261355c1119.png)
+![image](https://user-images.githubusercontent.com/111072200/201203971-70404314-3c62-44bf-b3c4-483c99499309.png)
 
 
 
