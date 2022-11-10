@@ -1,5 +1,6 @@
 # AV2-C
 𝙏𝙞𝙥𝙤𝙨 𝘿𝙚 𝙊𝙧𝙙𝙚𝙣𝙖𝙘̧𝙖̃𝙤 :
+
 Bubble sort - Esse tipo de ordenação Percorra o vetor inteiro comparando elementos adjacentes (dois a dois) e Troca as posições dos elementos fora de ordem.
 
 Insertion sort - é dividir os elementos em duas subestruturas, uma com os elementos já ordenados e outra com elementos ainda por ordenar ( tipo uma mão com cartas).
