@@ -17,7 +17,7 @@ Selection sort - A idéia da ordenação por seleção é procurar o menor eleme
 
 
 Merge sort - Esse tipo de ordenação em dividir o total de elementos por 2 até ficarem únicos e commparar cada um deles e ordenando.
- ![image](https://user-images.githubusercontent.com/111072200/201202577-c9fe9863-2535-49ca-af4e-a9369d6911f8.png)
+  ![image](https://user-images.githubusercontent.com/111072200/201202577-c9fe9863-2535-49ca-af4e-a9369d6911f8.png)
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
