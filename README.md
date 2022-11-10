@@ -10,7 +10,8 @@ Insertion sort - é dividir os elementos em duas subestruturas, uma com os eleme
 
 
 Selection sort - A idéia da ordenação por seleção é procurar o menor elemento do vetor (ou maior) e movimentá-lo para a primeira (última) posição do vetor.
-![image](https://user-images.githubusercontent.com/111072200/201201477-6d6d9d98-4eef-45db-90ef-a65b1e5590cf.png)
+
+![image](https://user-images.githubusercontent.com/111072200/201202393-6840b3da-f008-404b-a69f-08931727fdf5.png)
 
 
 Merge sort - Esse tipo de ordenação em dividir o total de elementos por 2 até ficarem únicos e commparar cada um deles e ordenando.
