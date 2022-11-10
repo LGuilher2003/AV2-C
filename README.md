@@ -6,7 +6,8 @@ Bubble sort - Esse tipo de ordenação Percorra o vetor inteiro comparando eleme
    ![image](https://user-images.githubusercontent.com/111072200/201198856-0fa6c942-2182-43fc-9582-62b70dfd32aa.png)
 
 
-Insertion sort - é dividir os elementos em duas subestruturas, uma com os elementos já ordenados e outra com elementos ainda por ordenar ( tipo uma mão com cartas).![image](https://user-images.githubusercontent.com/111072200/201199267-ba72f00a-99a9-4bbd-acb6-0778043b0871.png)
+Insertion sort - é dividir os elementos em duas subestruturas, uma com os elementos já ordenados e outra com elementos ainda por ordenar ( tipo uma mão com cartas).
+![image](https://user-images.githubusercontent.com/111072200/201200212-34cc3fb1-bc69-4d53-88bc-986b9f54b186.png)
 
 
 Selection sort - A idéia da ordenação por seleção é procurar o menor elemento do vetor (ou maior) e movimentá-lo para a primeira (última) posição do vetor.
